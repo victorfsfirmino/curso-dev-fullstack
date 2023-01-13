@@ -1,0 +1,22 @@
+body {
+    background: gray
+}
+
+p{
+    color: blue;
+}
+.foto001{
+    width: 200px;
+    border: 5px solid goldenrod; /* shortheand*/
+    border-radius: 100%;
+        /*
+    borden-width: 5px
+    border-style: solid;
+    border-color: blue;
+    */
+    margin: 30px 30px 30px 30px;
+    /*
+    margin-top: 30px;
+    margin-bottom: 100px;
+    margin-left: 500px; */
+    }
